@@ -1,4 +1,5 @@
-- 👋 Hi, I’m <strong>@Marcos-Felippe</strong>.
+<h2>Marcos Felippe</h2>
+
 - I've been a <strong>Software Developer</strong> since 2017.
 - I'm studying <strong>Control and Automation Engineering</strong> at PUC-Campinas university.
 - In these years I've learned about programming with: html - css, javascript - node - react - next, python, dart - flutter, php - laravel, c, c++, c#, java - android apps development, wordpress, sql - nosql databases.
