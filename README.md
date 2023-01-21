@@ -2,6 +2,7 @@
 
 I'm a 19 years old <strong>Student</strong>, <strong>Software Developer</strong> and <strong>Data-Analyst</strong>.
 
+<br/>
 
 ### About me
 - I've been a <strong>Software Developer</strong> since 2017 and a <strong>Data-Analyst</strong> since 2020.
@@ -22,6 +23,7 @@ I'm a 19 years old <strong>Student</strong>, <strong>Software Developer</strong>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original-wordmark.svg" height="30" width="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-plain-wordmark.svg" height="30" width="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="30" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original-wordmark.svg" height="30" width="40" />
   
   <br/><br/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg" height="30" width="40" />
