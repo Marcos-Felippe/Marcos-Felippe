@@ -44,7 +44,7 @@ I'm a 19 years old <strong>Student</strong>, <strong>Software Developer</strong>
 
 
 <hr/>
-🦘🐅🐍
+🦘🐅🦝🐍
 
 <!---
 Marcos-Felippe/Marcos-Felippe is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
