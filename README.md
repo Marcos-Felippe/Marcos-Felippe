@@ -1,16 +1,17 @@
 ## Marcos Felippe ✌
 
-I'm a 21 years old <strong>Student</strong>, <strong>Software Developer</strong> and <strong>Data-Analyst</strong>.
-
-<br/>
-
 ### About me
-- I've been a <strong>Software Developer</strong> since 2017 and a <strong>Data-Analyst</strong> since 2020.
-- I'm studying <strong>Control and Automation Engineering</strong> at PUC-Campinas University in Brazil.
+Hi! My name is Marcos Felippe, I'm 21 years old, a <strong>software developer</strong>, and a <strong>Control and Automation Engineering student</strong>.
+
+]- I'm a software developer with experience in <strong>Web and Mobile Development</strong>, <strong>Data Analysis</strong>, <strong>Machine Learning</strong>, and <strong>Artificial Intelligence</strong>. Over the past few years, I've been honing my skills to build innovative and efficient solutions using cutting-edge technologies.
+
+- Currently, I'm pursuing a degree in <strong>Control and Automation Engineering</strong> at <strong>PUC-Campinas</strong> in Brazil, which has provided me with a strong foundation in logic, automation, and intelligent systems. I'm always looking for new challenges and opportunities to apply my knowledge and collaborate on transformative projects.
+
+Let's connect and build something amazing together!
 
 <br/>
 
-### Most used languages and tecnologies
+### Most used tecnologies
 <div>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" width="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" width="40" />
@@ -40,8 +41,8 @@ I'm a 21 years old <strong>Student</strong>, <strong>Software Developer</strong>
 ### Some skills
 - Web Applications Development with JS/TS;
 - Mobile Applications Development with Flutter/Dart;
-- Software Development with Go;
-- Data-Analysis with Python;
+- High Performance Softwares Development with C and Go;
+- Machine Learning and Data-Analysis with Python;
 
 
 
