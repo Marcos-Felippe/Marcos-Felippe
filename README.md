@@ -3,7 +3,7 @@
 ### About me
 Hi! My name is Marcos Felippe, I'm 21 years old, a <strong>software developer</strong>, and a <strong>Control and Automation Engineering student</strong>.
 
-]- I'm a software developer with experience in <strong>Web and Mobile Development</strong>, <strong>Data Analysis</strong>, <strong>Machine Learning</strong>, and <strong>Artificial Intelligence</strong>. Over the past few years, I've been honing my skills to build innovative and efficient solutions using cutting-edge technologies.
+- I'm a software developer with experience in <strong>Web and Mobile Development</strong>, <strong>Data Analysis</strong>, <strong>Machine Learning</strong>, and <strong>Artificial Intelligence</strong>. Over the past few years, I've been honing my skills to build innovative and efficient solutions using cutting-edge technologies.
 
 - Currently, I'm pursuing a degree in <strong>Control and Automation Engineering</strong> at <strong>PUC-Campinas</strong> in Brazil, which has provided me with a strong foundation in logic, automation, and intelligent systems. I'm always looking for new challenges and opportunities to apply my knowledge and collaborate on transformative projects.
 
